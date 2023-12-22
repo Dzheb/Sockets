@@ -1,4 +1,5 @@
-!**/src/main/java/org/example/
+.gitignore
+src/main/java/org/example/
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/

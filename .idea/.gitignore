@@ -1,4 +1,5 @@
 # Default ignored files
+!**/src/main/java/org/example/
 /shelf/
 /workspace.xml
 # Editor-based HTTP Client requests
